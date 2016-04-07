@@ -1,0 +1,2 @@
+D:\MyProjects\TelerikAcademy\HomeWork\Solution1\Print Long Sequence\bin\Debug\Print Long Sequence.exe.config
+D:\MyProjects\TelerikAcademy\HomeWork\Solution1\Print Long Sequence\obj\Debug\Print Long Sequence.csprojResolveAssemblyReference.cache

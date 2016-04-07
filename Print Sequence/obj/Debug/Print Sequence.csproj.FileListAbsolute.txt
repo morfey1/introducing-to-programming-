@@ -1,0 +1,5 @@
+D:\MyProjects\TelerikAcademy\HomeWork\Solution1\Print Sequence\bin\Debug\Print Sequence.exe.config
+D:\MyProjects\TelerikAcademy\HomeWork\Solution1\Print Sequence\bin\Debug\Print Sequence.exe
+D:\MyProjects\TelerikAcademy\HomeWork\Solution1\Print Sequence\bin\Debug\Print Sequence.pdb
+D:\MyProjects\TelerikAcademy\HomeWork\Solution1\Print Sequence\obj\Debug\Print Sequence.exe
+D:\MyProjects\TelerikAcademy\HomeWork\Solution1\Print Sequence\obj\Debug\Print Sequence.pdb

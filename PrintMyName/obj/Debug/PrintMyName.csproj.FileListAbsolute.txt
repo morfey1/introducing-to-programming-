@@ -1,0 +1,6 @@
+D:\MyProjects\TelerikAcademy\HomeWork\Solution1\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\MyProjects\TelerikAcademy\HomeWork\Solution1\PrintMyName\bin\Debug\PrintMyName.exe
+D:\MyProjects\TelerikAcademy\HomeWork\Solution1\PrintMyName\bin\Debug\PrintMyName.pdb
+D:\MyProjects\TelerikAcademy\HomeWork\Solution1\PrintMyName\obj\Debug\PrintMyName.exe
+D:\MyProjects\TelerikAcademy\HomeWork\Solution1\PrintMyName\obj\Debug\PrintMyName.pdb
+D:\MyProjects\TelerikAcademy\HomeWork\Solution1\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache
